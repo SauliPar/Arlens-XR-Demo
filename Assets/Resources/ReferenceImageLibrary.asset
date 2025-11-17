@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4905299876296552886
+  m_GuidHigh: 1040459967403743647
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5180938785078531783
+      m_GuidHigh: 3305015356420384158
+    m_SerializedTextureGuid:
+      m_GuidLow: 9422828663725322903
+      m_GuidHigh: 3289655836027023673
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: cat_carpet_asset2
+    m_Texture: {fileID: 2800000, guid: d0b772979cbe82c43971aeb38d34a72d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4921994626989976757
+      m_GuidHigh: 4724216411838530210
+    m_SerializedTextureGuid:
+      m_GuidLow: 4698557005654857345
+      m_GuidHigh: 8318858168416549371
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: dog_carpet_asset2
+    m_Texture: {fileID: 2800000, guid: defb1681a0b34134fb3953d16d857273, type: 3}
